@@ -1,2 +1,3 @@
 # STCET_python
-Hello
+Shounak Rakshit <br/>
+CSE 1st Year - 47 
